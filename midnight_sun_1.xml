@@ -1,0 +1,112 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+<Ad id="414666109">
+<InLine>
+<AdSystem>DCM</AdSystem>
+<AdTitle>In-Stream Video</AdTitle>
+<Error>
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Error>
+<Impression>
+<![CDATA[
+https://ad.doubleclick.net/ddm/trackimp/N763.1899904WATTPAD.COM/B20792911.215709222;dc_trk_aid=414666109;dc_trk_cid=98498338;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?
+]]>
+</Impression>
+<Creatives>
+<Creative id="98498338" sequence="1">
+<Linear>
+<Duration>00:00:15</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[
+https://ad.doubleclick.net/ddm/trackclk/N763.1899904WATTPAD.COM/B20792911.215709222;dc_trk_aid=414666109;dc_trk_cid=98498338;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="1637" scalable="false" maintainAspectRatio="true">
+<![CDATA[
+https://s3.amazonaws.com/wattpad-ad-asset-serving/18007_eOne_Midnight_Sun+Canada.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="geo">
+<Country>CA</Country>
+<Bandwidth>4</Bandwidth>
+<BandwidthKbps>20000</BandwidthKbps>
+</Extension>
+<Extension type="dart">
+<AdServingData>
+<DeliveryData>
+<GeoData>
+<![CDATA[ ct=CA&st=ON&city=1829&dma=0&zp=M5A&bw=4 ]]>
+</GeoData>
+</DeliveryData>
+</AdServingData>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
