@@ -1,17 +1,16 @@
+<?xml version="1.0"?>
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
 <Ad id="414666109">
 <InLine>
 <AdSystem>DCM</AdSystem>
-<AdTitle>In-Stream Video</AdTitle>
-<Error>
-<![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
-]]>
-</Error>
+<AdTitle><![CDATA[Midnight Sun Wattpad Creative - 2]]></AdTitle>
 <Impression>
 <![CDATA[
-https://ad.doubleclick.net/ddm/trackimp/N763.1899904WATTPAD.COM/B20792911.215709222;dc_trk_aid=414666109;dc_trk_cid=98498338;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?
+https://ad.doubleclick.net/ddm/trackimp/N763.1899904WATTPAD.COM/B20792911.215709222;dc_trk_aid=414666109;dc_trk_cid=98498338;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=false
 ]]>
+</Impression>
+<Impression>
+<![CDATA[https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=midnight_sun_2&key=imp]]>
 </Impression>
 <Creatives>
 <Creative id="98498338" sequence="1">
@@ -20,75 +19,44 @@ https://ad.doubleclick.net/ddm/trackimp/N763.1899904WATTPAD.COM/B20792911.215709
 <TrackingEvents>
 <Tracking event="start">
 <![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=midnight_sun_2&key=start
 ]]>
 </Tracking>
 <Tracking event="firstQuartile">
 <![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=midnight_sun_2&key=firstQuartile
 ]]>
 </Tracking>
 <Tracking event="midpoint">
 <![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=midnight_sun_2&key=midpoint
 ]]>
 </Tracking>
 <Tracking event="thirdQuartile">
 <![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=midnight_sun_2&key=thirdQuartile
 ]]>
 </Tracking>
 <Tracking event="complete">
 <![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
-]]>
-</Tracking>
-<Tracking event="mute">
-<![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
-]]>
-</Tracking>
-<Tracking event="unmute">
-<![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
-]]>
-</Tracking>
-<Tracking event="pause">
-<![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
-]]>
-</Tracking>
-<Tracking event="fullscreen">
-<![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
-]]>
-</Tracking>
-<Tracking event="acceptInvitation">
-<![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
-]]>
-</Tracking>
-<Tracking event="close">
-<![CDATA[
-https://d30x8mtr3hjnzo.cloudfront.net/client/images/vastimp1x1.png
+https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=midnight_sun_2&key=complete
 ]]>
 </Tracking>
 </TrackingEvents>
 <VideoClicks>
-<ClickThrough>
-<![CDATA[
-https://ad.doubleclick.net/ddm/trackclk/N763.1899904WATTPAD.COM/B20792911.215709222;dc_trk_aid=414666109;dc_trk_cid=98498338;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=
-]]>
-</ClickThrough>
+<ClickThrough><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N763.1899904WATTPAD.COM/B20792911.215709222;dc_trk_aid=414666109;dc_trk_cid=98498338;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=false]]></ClickThrough>
+<ClickTracking>
+<![CDATA[https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=midnight_sun_2&key=click]]>
+</ClickTracking>
 </VideoClicks>
 <MediaFiles>
-<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="1637" scalable="false" maintainAspectRatio="true">
+<MediaFile delivery="progressive" width="361" height="640" type="video/mp4" bitrate="1637" scalable="false" maintainAspectRatio="true">
 <![CDATA[
 https://s3.amazonaws.com/wattpad-ad-asset-serving/18007_eOne_Midnight_Sun+Canada_2.mp4
 ]]>
 </MediaFile>
 </MediaFiles>
-</Linear>
+</Linear>   
 </Creative>
 </Creatives>
 <Extensions>

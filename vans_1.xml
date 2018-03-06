@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="2.0">
+ <Ad id="6361105">
+  <InLine>
+   <AdSystem>DCM</AdSystem>
+   <AdTitle>VF_VANS_1Q18_DIS_GRLSKTEDISTRO</AdTitle>
+   <Impression><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N474202.1899904WATTPAD.COM/B20796525.215292476;dc_trk_aid=414456322;dc_trk_cid=98383750;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=]]></Impression>
+   <Impression><![CDATA[https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=vans&key=imp]]></Impression>
+   <Creatives>
+    <Creative id="20796525" sequence="1">
+     <Linear>
+      <Duration>00:00:15</Duration>
+      <TrackingEvents>
+        <Tracking event="start">
+        <![CDATA[
+        https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=vans&key=start
+        ]]>
+        </Tracking>
+        <Tracking event="firstQuartile">
+        <![CDATA[
+        https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=vans&key=firstQuartile
+        ]]>
+        </Tracking>
+        <Tracking event="midpoint">
+        <![CDATA[
+        https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=vans&key=midpoint
+        ]]>
+        </Tracking>
+        <Tracking event="thirdQuartile">
+        <![CDATA[
+        https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=vans&key=thirdQuartile
+        ]]>
+        </Tracking>
+        <Tracking event="complete">
+        <![CDATA[
+        https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=vans&key=complete
+        ]]>
+        </Tracking>
+      </TrackingEvents>
+      <VideoClicks>
+       <ClickThrough><![CDATA[https://ad.doubleclick.net/ddm/trackclk/N474202.1899904WATTPAD.COM/B20796525.215292476;dc_trk_aid=414456322;dc_trk_cid=98383750;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=]]></ClickThrough>
+       <ClickTracking><![CDATA[https://s3.amazonaws.com/wattpad-ad-asset-serving/1x1.gif?creative_name=vans&key=click]]></ClickTracking>
+      </VideoClicks>
+      <MediaFiles>
+      <MediaFile delivery="progressive" width="270" height="480" type="video/mp4" bitrate="1637" scalable="true" maintainAspectRatio="true">
+        <![CDATA[
+        https://s3.amazonaws.com/wattpad-ad-asset-serving/vans_march_2018/video_1.mp4
+        ]]>
+        </MediaFile>
+      </MediaFiles>
+     </Linear>
+    </Creative>
+   </Creatives>
+   <Extensions><Extension type="geo"><Country>US</Country><Bandwidth>4</Bandwidth><BandwidthKbps>20000</BandwidthKbps></Extension><Extension type="dart"><AdServingData><DeliveryData><GeoData><![CDATA[ct=US&st=ON&city=1829&dma=0&zp=M5A&bw=4]]></GeoData></DeliveryData></AdServingData></Extension></Extensions>
+  </InLine>
+ </Ad>
+</VAST>
